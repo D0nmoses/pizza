@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 18d283afe51ee7fbe62c96457aaa5da8122f2f3d Don Moses <githinjidon@gmail.com> 1576225457 +0300	commit (initial): initial commit
+18d283afe51ee7fbe62c96457aaa5da8122f2f3d 2579a48a9d09b09c8d10c8706c69eb816f636c32 Don Moses <githinjidon@gmail.com> 1576226416 +0300	commit: add jquery and bootstrap files
+2579a48a9d09b09c8d10c8706c69eb816f636c32 8204beb96c1ae3c72816edd540fc72a839025d43 Don Moses <githinjidon@gmail.com> 1576482522 +0300	commit: attempt to fix git errors
+8204beb96c1ae3c72816edd540fc72a839025d43 34a5890f2587422013d54c16816f2e470c60500a Don Moses <githinjidon@gmail.com> 1576485610 +0300	rebase finished: refs/heads/master onto 2aee163663530ef7795a1fb0b7856efd4c5a4362
+34a5890f2587422013d54c16816f2e470c60500a ed892b76403bfcb34f914710f27480fbd23ce32d Don Moses <githinjidon@gmail.com> 1576485669 +0300	commit: add backround image
+ed892b76403bfcb34f914710f27480fbd23ce32d e4557ed5e82f18aa2a8d1008c03f3382482ed65e Don Moses <githinjidon@gmail.com> 1576566074 +0300	commit: add license and README to project
+e4557ed5e82f18aa2a8d1008c03f3382482ed65e 14196256c172aefd1f3c88cb55817eb11ed61ef3 Don Moses <githinjidon@gmail.com> 1576566277 +0300	commit: add minor changes to html and js files

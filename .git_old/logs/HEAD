@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 18d283afe51ee7fbe62c96457aaa5da8122f2f3d Don Moses <githinjidon@gmail.com> 1576225457 +0300	commit (initial): initial commit
+18d283afe51ee7fbe62c96457aaa5da8122f2f3d 2579a48a9d09b09c8d10c8706c69eb816f636c32 Don Moses <githinjidon@gmail.com> 1576226416 +0300	commit: add jquery and bootstrap files
+2579a48a9d09b09c8d10c8706c69eb816f636c32 2579a48a9d09b09c8d10c8706c69eb816f636c32 Don Moses <githinjidon@gmail.com> 1576226665 +0300	checkout: moving from master to gh-pages
+2579a48a9d09b09c8d10c8706c69eb816f636c32 b050b37809cb0eae5604c80094f9485cb6e8cfb4 Don Moses <githinjidon@gmail.com> 1576227369 +0300	commit: add usual html elements
+b050b37809cb0eae5604c80094f9485cb6e8cfb4 096517c3f2aa4f8fb00695427f8eb5efd125b114 Don Moses <githinjidon@gmail.com> 1576227797 +0300	commit: add jumbotron for header
+096517c3f2aa4f8fb00695427f8eb5efd125b114 b4b14384fe4932aa977c5f936ded7af842a58abf Don Moses <githinjidon@gmail.com> 1576238843 +0300	commit: replace jumbotron with nav elements
+b4b14384fe4932aa977c5f936ded7af842a58abf 077f44cb0aaf126a0eb89504dee6d7b4e3240ecf Don Moses <githinjidon@gmail.com> 1576476351 +0300	commit: add 3 pizzas to ment for testing
+077f44cb0aaf126a0eb89504dee6d7b4e3240ecf a3b29591be6505cf63b0d34b0012ff35d0adeb9a Don Moses <githinjidon@gmail.com> 1576476456 +0300	commit: add styling for some html elements
+a3b29591be6505cf63b0d34b0012ff35d0adeb9a 3c68c5c09c5c3aa9eaa814bc4a27965f0fc083a0 Don Moses <githinjidon@gmail.com> 1576476657 +0300	commit: add form picking customer info
+3c68c5c09c5c3aa9eaa814bc4a27965f0fc083a0 ba7425ba234e5eafa282e7436a2ab129edaa9e07 Don Moses <githinjidon@gmail.com> 1576476695 +0300	commit: add images of pizzas
+ba7425ba234e5eafa282e7436a2ab129edaa9e07 462e64997a2381b978b8cca2ddc2c95c0c979a5f Don Moses <githinjidon@gmail.com> 1576476861 +0300	commit: add more styling for html elements
+462e64997a2381b978b8cca2ddc2c95c0c979a5f 729f3e507e9cc616f2954dafd4dcf9f737b53dc1 Don Moses <githinjidon@gmail.com> 1576476950 +0300	commit: add css to html elements
+729f3e507e9cc616f2954dafd4dcf9f737b53dc1 4689c55dc49632d8f9a2fdb81840d253bf5212ad Don Moses <githinjidon@gmail.com> 1576477169 +0300	commit: add js to hide dialogs and gather order numbers
+4689c55dc49632d8f9a2fdb81840d253bf5212ad 8a2b73146044c841628ca1b47c19616598346d3d Don Moses <githinjidon@gmail.com> 1576477449 +0300	commit: add js to show dialogs on order made to cart
+8a2b73146044c841628ca1b47c19616598346d3d 10bb0b1a0bb8c43e1621c52b3fe824e983b4d3d1 Don Moses <githinjidon@gmail.com> 1576477885 +0300	commit: add function for increasing or decreasing price based on orders as well as adding input fields to add ingredients
+10bb0b1a0bb8c43e1621c52b3fe824e983b4d3d1 3f37fa60ba0c677f17f2b7f05f3a66e5ae47549f Don Moses <githinjidon@gmail.com> 1576478174 +0300	commit: add js to open cart and display total price
+3f37fa60ba0c677f17f2b7f05f3a66e5ae47549f 56acec3e93d8baa82ea92c30a4b5fb468ff49a66 Don Moses <githinjidon@gmail.com> 1576478297 +0300	commit: add js to finish the ordering process and display total price
+56acec3e93d8baa82ea92c30a4b5fb468ff49a66 8c74f0dda363f6f500899714056d5524e8849945 Don Moses <githinjidon@gmail.com> 1576481023 +0300	commit: add minor changes
+8c74f0dda363f6f500899714056d5524e8849945 2579a48a9d09b09c8d10c8706c69eb816f636c32 Don Moses <githinjidon@gmail.com> 1576482124 +0300	checkout: moving from gh-pages to master
+2579a48a9d09b09c8d10c8706c69eb816f636c32 8204beb96c1ae3c72816edd540fc72a839025d43 Don Moses <githinjidon@gmail.com> 1576482522 +0300	commit: attempt to fix git errors
+8204beb96c1ae3c72816edd540fc72a839025d43 8c74f0dda363f6f500899714056d5524e8849945 Don Moses <githinjidon@gmail.com> 1576484100 +0300	checkout: moving from master to gh-pages
+8c74f0dda363f6f500899714056d5524e8849945 2aee163663530ef7795a1fb0b7856efd4c5a4362 Don Moses <githinjidon@gmail.com> 1576484678 +0300	commit: add css lost due to git error and modify js
+2aee163663530ef7795a1fb0b7856efd4c5a4362 2aee163663530ef7795a1fb0b7856efd4c5a4362 Don Moses <githinjidon@gmail.com> 1576484750 +0300	reset: moving to HEAD
+2aee163663530ef7795a1fb0b7856efd4c5a4362 8204beb96c1ae3c72816edd540fc72a839025d43 Don Moses <githinjidon@gmail.com> 1576485404 +0300	checkout: moving from gh-pages to master
+8204beb96c1ae3c72816edd540fc72a839025d43 2aee163663530ef7795a1fb0b7856efd4c5a4362 Don Moses <githinjidon@gmail.com> 1576485412 +0300	rebase: checkout gh-pages
+2aee163663530ef7795a1fb0b7856efd4c5a4362 34a5890f2587422013d54c16816f2e470c60500a Don Moses <githinjidon@gmail.com> 1576485610 +0300	rebase: attempt to fix git errors
+34a5890f2587422013d54c16816f2e470c60500a 34a5890f2587422013d54c16816f2e470c60500a Don Moses <githinjidon@gmail.com> 1576485610 +0300	rebase finished: returning to refs/heads/master
+34a5890f2587422013d54c16816f2e470c60500a ed892b76403bfcb34f914710f27480fbd23ce32d Don Moses <githinjidon@gmail.com> 1576485669 +0300	commit: add backround image
+ed892b76403bfcb34f914710f27480fbd23ce32d e4557ed5e82f18aa2a8d1008c03f3382482ed65e Don Moses <githinjidon@gmail.com> 1576566074 +0300	commit: add license and README to project
+e4557ed5e82f18aa2a8d1008c03f3382482ed65e 14196256c172aefd1f3c88cb55817eb11ed61ef3 Don Moses <githinjidon@gmail.com> 1576566277 +0300	commit: add minor changes to html and js files
